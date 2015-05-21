@@ -1,2 +1,3 @@
 # JButton
-Basic JButton
+
+Basic JButton for potential poker game
